@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jean Toniolli"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jean Toniolli"
 description              : &description "PhD. Student at Concordia University"
 url                      : https://jeanlst.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
